@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.4/Orbilink-1.0.4.apk",
-  "sha256": "41b53daeea41027a0962714e8a6a6fa07d575f023e5988d79078832f5ff252dd",
-  "bytes": 2560496,
-  "notes": "Appui long puis pincement pour redimensionner une bulle. Glisser-deposer pour entrer ou sortir des dossiers. Explication de la permission de mise a jour Xiaomi."
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.5/Orbilink-1.0.5.apk",
+  "sha256": "62d023a76b2a9b0dedabea7a34d5c0498238a57c6685671e5e56292fb4e2f929",
+  "bytes": 2560500,
+  "notes": "Redimensionnement plus ample et discret. Correction du saut des bulles et du zoom automatique apres un depot pres des bords."
 }
