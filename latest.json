@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.9/Orbilink-1.0.9.apk",
-  "sha256": "aac1b1a9c6003ce855fd8ad6dd879aaed8ab6c8c962d01d77e21b118e4743d9e",
-  "bytes": 2593308,
-  "notes": "Anniversaires liés au calendrier avec date de naissance et âge actuel. Rappels réglables : 1 semaine avant, la veille et le jour même, à 10 h par défaut."
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.10/Orbilink-1.0.10.apk",
+  "sha256": "86680dd567e250cb86d3c61c34606328234966897a4a0a24ef7d28e25ce33def",
+  "bytes": 2576928,
+  "notes": "Fiche d’information allégée avec dates de création et de modification du contenu. Images et dates accessibles depuis le crayon ; Afficher ailleurs en bas de l’éditeur. Actions regroupées près du bouton +, sans doublon."
 }
