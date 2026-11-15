@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.5/Orbilink-1.0.5.apk",
-  "sha256": "62d023a76b2a9b0dedabea7a34d5c0498238a57c6685671e5e56292fb4e2f929",
-  "bytes": 2560500,
-  "notes": "Redimensionnement plus ample et discret. Correction du saut des bulles et du zoom automatique apres un depot pres des bords."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.6/Orbilink-1.0.6.apk",
+  "sha256": "be6602ad0ddb7f9e09532aa22adb0cb22826f4871eb17d227db424a0626470e4",
+  "bytes": 2560496,
+  "notes": "Les bandeaux du bas peuvent etre fermes en les glissant vers la gauche ou la droite. Le bouton Annuler reste disponible."
 }
