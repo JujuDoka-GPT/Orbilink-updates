@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.12/Orbilink-1.0.12.apk",
-  "sha256": "0b1199e8b985b96ca3230d74a66b8d89e6c3b7b589a1e2b0662e7f5daf4c653e",
-  "bytes": 2576928,
-  "notes": "Taille des bulles indépendante du zoom de la carte, sans plafond à 5000 %. Correction des pincements successifs quand on relève et repose un doigt, et des anciennes tailles bloquées. Dézoom étendu pour naviguer comme sur une toile vectorielle. Données et photos conservées."
+  "versionCode": 14,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.1.0/Orbilink-1.1.0.apk",
+  "sha256": "eeaa4a734922b3fbd4a1dc049b6891b1be3ab9fa19643ade52cb1109dc47e835",
+  "bytes": 2576924,
+  "notes": "Interface plus discrète : les déplacements, changements de taille et actions courantes ne déclenchent plus de bandeau. Les messages utiles ne sont plus mis en file ; les balayer les efface sans cascade. Annulation accessible directement en haut de la carte. Données et photos conservées."
 }
