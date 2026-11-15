@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "applicationId": "fr.orbilink.app",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.3/Orbilink-1.0.3.apk",
+  "sha256": "c67868b5e8ddd015f306fca501819b209249b6250cc89b77eee2406b94c74fdb",
+  "bytes": 2544112,
+  "notes": "Reglage de la taille des bulles de 60 a 200 %, avec conservation des emplacements et photos."
+}
