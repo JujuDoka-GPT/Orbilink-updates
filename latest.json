@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.10/Orbilink-1.0.10.apk",
-  "sha256": "86680dd567e250cb86d3c61c34606328234966897a4a0a24ef7d28e25ce33def",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.11/Orbilink-1.0.11.apk",
+  "sha256": "aa3ce0c44434d9b7f7994cf30b57dbf35d95c7843150d2c5f42627fa886ac6ac",
   "bytes": 2576928,
-  "notes": "Fiche d’information allégée avec dates de création et de modification du contenu. Images et dates accessibles depuis le crayon ; Afficher ailleurs en bas de l’éditeur. Actions regroupées près du bouton +, sans doublon."
+  "notes": "Correction des bulles imbriquées : les dossiers gardent leur taille quand une sous-bulle est déplacée, le pincement agit sur la bulle tenue et les petites bulles sont plus faciles à sélectionner. Positions, contenu et photos conservés."
 }
