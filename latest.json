@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 14,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.1.0/Orbilink-1.1.0.apk",
-  "sha256": "eeaa4a734922b3fbd4a1dc049b6891b1be3ab9fa19643ade52cb1109dc47e835",
-  "bytes": 2576924,
-  "notes": "Interface plus discrète : les déplacements, changements de taille et actions courantes ne déclenchent plus de bandeau. Les messages utiles ne sont plus mis en file ; les balayer les efface sans cascade. Annulation accessible directement en haut de la carte. Données et photos conservées."
+  "versionCode": 15,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.1.1/Orbilink-1.1.1.apk",
+  "sha256": "0a57979096ce6f73fb427bfb3b1809caee8f7a86e7df71047b72939e6f317521",
+  "bytes": 2593308,
+  "notes": "Les petites bulles restent repérables dans les grands dossiers : noms lisibles et accessibles pour zoomer directement dessus, même à très petite échelle. Les noms évitent de se superposer ; un bouton + rapproche les groupes trop serrés. Tailles, positions, données et photos conservées."
 }
