@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "fr.orbilink.app",
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.8/Orbilink-1.0.8.apk",
-  "sha256": "e4da4393f6c1a8b9f95aa5560c208a9a0323bd581db61f99e4f139f820b81445",
-  "bytes": 2576924,
-  "notes": "La rotation du telephone conserve la zone affichee, le zoom, la bulle selectionnee et son chemin. La navigation Retour est restauree."
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/JujuDoka-GPT/Orbilink-updates/releases/download/v1.0.9/Orbilink-1.0.9.apk",
+  "sha256": "aac1b1a9c6003ce855fd8ad6dd879aaed8ab6c8c962d01d77e21b118e4743d9e",
+  "bytes": 2593308,
+  "notes": "Anniversaires liés au calendrier avec date de naissance et âge actuel. Rappels réglables : 1 semaine avant, la veille et le jour même, à 10 h par défaut."
 }
